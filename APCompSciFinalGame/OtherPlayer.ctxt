@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=name\ x\ y\ size\ color\ ID
+comment0.target=OtherPlayer(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=int\ getID()
+comment6.params=
+comment6.target=int\ getColor()
+comment7.params=x
+comment7.target=void\ setX(int)
+comment8.params=y
+comment8.target=void\ setY(int)
+comment9.params=ID
+comment9.target=void\ setID(int)
+numComments=10

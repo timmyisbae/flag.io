@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=d\ player
+comment0.target=GamePanel(java.awt.Dimension,\ Player)
+comment1.params=
+comment1.target=void\ run()
+comment10.params=ID
+comment10.target=OtherPlayer\ getOtherPlayerByID(int)
+comment11.params=ID
+comment11.target=void\ removeOtherPlayer(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.params=e
+comment5.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment7.params=out
+comment7.target=void\ setOut(java.io.PrintWriter)
+comment8.params=player
+comment8.target=void\ addPlayer(OtherPlayer)
+comment9.params=ID
+comment9.target=boolean\ canAddPlayer(int)
+numComments=12
